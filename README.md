@@ -3,7 +3,7 @@
 
 > personal webpage 
 >
--Link to source [repository!](https://github.com/bazilsky)
+- Link to source [repository!](https://github.com/bazilsky)
 
 
 
